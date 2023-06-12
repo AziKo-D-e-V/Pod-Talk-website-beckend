@@ -1,0 +1,20 @@
+[
+  {
+    "id": "55202921-2aa7-4c5e-b019-a6fa625c1417",
+    "podcast": "dc902717-973a-401c-9f32-b2d6337c2868.jpg",
+    "title": "Daily Talk",
+    "actor_image": "71342164-2f41-4661-bda0-12583b6899d8.jpg",
+    "actor": "Elsa",
+    "profession": "Influencer",
+    "text": "Lorem Ipsum dolor sit amet consectetur"
+  },
+  {
+    "id": "2bd4f033-674b-4a15-89aa-962803deb613",
+    "podcast": "06256d9a-2943-42fc-a4ad-7a056e451a2c.jpg",
+    "title": "Daily Talk",
+    "actor_image": "83b7f03b-5196-439e-b725-9dc509b2dcf9.jpg",
+    "actor": "Taylor",
+    "profession": "Creator",
+    "text": "Lorem Ipsum dolor sit amet consectetur"
+  }
+]
